@@ -28,7 +28,7 @@ Procedures have been built by NorthWestTrees Gaming.
 | --- | --- |
 
 ## TUTORIALS
-* [YouTube: Gun Block](https://youtu.be/M54Xz9sBF_8) - Published on 2021-08-06
+* [YouTube: Gun Block](https://youtu.be/KPbeOc8smbk) - Published on 2021-08-06
 
 ## GALLERY
 ![Gun Block](https://i.imgur.com/v5KFQBA.png)
