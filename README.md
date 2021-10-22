@@ -1,4 +1,4 @@
-![Gun Block](https://i.imgur.com/wNvDPoW.png)
+![Powered Armor](https://i.imgur.com/HM3PTXK.png)
 # GUN BLOCK
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -29,4 +29,4 @@ Procedures have been built by NorthWestTrees Gaming.
 | --- | --- |
 
 ## TUTORIALS
-* [YouTube: Gun Block](https://youtu.be/KPbeOc8smbk) - Published on 2021-08-06
+* [YouTube: Advanced Powered Armor Tutorial](https://youtu.be/ypgO8OMzVkk) - Published on 2021-10-22
